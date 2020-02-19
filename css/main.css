@@ -48,7 +48,7 @@ hr {
 }
 
 li {
-  list-style: circle;
+  list-style: square;
 }
 
 body {
@@ -281,6 +281,6 @@ p.gpa, p.location {
   }
 
   ul.card-list ul {
-    padding-inline-start: initial;
+    padding-inline-start: 40px;
   }
 }
