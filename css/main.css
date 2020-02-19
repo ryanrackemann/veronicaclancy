@@ -185,7 +185,7 @@ ul.card-list {
   grid-gap: 24px;
 }
 
-ul.card-list li {
+ul.card-list > li {
   list-style: none;
 }
 
