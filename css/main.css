@@ -189,6 +189,10 @@ ul.card-list > li {
   list-style: none;
 }
 
+ul.card-list ul {
+  padding-inline-start: 18px;
+}
+
 .card {
   border: 4px solid var(--teal);
   border-radius: 6px;
@@ -274,5 +278,9 @@ p.gpa, p.location {
   /********* CARD LIST **********/
   ul.card-list {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  ul.card-list ul {
+    padding-inline-start: initial;
   }
 }
