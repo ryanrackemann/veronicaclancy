@@ -189,7 +189,7 @@ ul.card-list > li {
   list-style: none;
 }
 
-ul.card-list ul {
+.card ul {
   padding-inline-start: 18px;
 }
 
@@ -280,7 +280,7 @@ p.gpa, p.location {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  ul.card-list ul {
+  .card ul {
     padding-inline-start: 40px;
   }
 }
