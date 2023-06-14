@@ -283,4 +283,8 @@ p.gpa, p.location {
   .card ul {
     padding-inline-start: 40px;
   }
+
+  ul.card-list .card.full-width{
+    grid-column: 1 / span 2;
+  }
 }
