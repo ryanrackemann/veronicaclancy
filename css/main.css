@@ -238,7 +238,15 @@ p.gpa, p.location {
   font-feature-settings: 'liga';
 }
 
-@media only screen and (min-width: 800px) {
+.contact-icon {
+  margin-top: 14px;
+}
+
+.contact-icon a:hover {
+  opacity: 0.8;
+}
+
+@media only screen and (min-width: 900px) {
   body {
     grid-template-rows: 230px 1fr;
   }
@@ -266,6 +274,17 @@ p.gpa, p.location {
     text-align: right;
     padding: 0;
     margin: 0;
+  }
+
+  header .contact h1 {
+    display: inline-block;
+  }
+
+  header .contact .contact-icon {
+    display: inline-block;
+    bottom: 4px;
+    position: relative;
+    margin-left: 14px;
   }
 
   main { padding: 0 0 16px 0; }
