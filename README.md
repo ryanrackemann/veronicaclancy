@@ -1,11 +1,11 @@
 # Introduction
 
-Welcome to the official website of Jane Doe. This static website showcases Jane's education and work experience. It is hosted on GitHub Pages.
+Welcome to the official website of Veronica Clancy. This static website showcases Veronica's education and work experience. It is hosted on GitHub Pages.
 
 # Features
 
-- Education: A detailed overview of Jane's educational background, including degrees, certifications, and other academic achievements.
-- Work Experience: A comprehensive summary of Jane's professional work experience, including roles, responsibilities, and notable projects.
+- Education: A detailed overview of Veronica's educational background, including degrees, certifications, and other academic achievements.
+- Work Experience: A comprehensive summary of Veronica's professional work experience, including roles, responsibilities, and notable projects.
 
 # Technologies Used
 
