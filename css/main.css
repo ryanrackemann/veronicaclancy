@@ -38,6 +38,7 @@ h3 {
   font-size: 20px;
   font-weight: bolder;
   letter-spacing: 2px;
+  margin-bottom: 4px;
 }
 
 hr {
@@ -199,10 +200,9 @@ ul.card-list > li {
   width: 100%;
 }
 
-p.dates {
-  margin: 0;
-  text-align: right;
+.dates {
   font-style: italic;
+  margin: 0;
 }
 
 p.gpa, p.location {
@@ -250,7 +250,7 @@ p.gpa, p.location {
   }
 
   header {
-    padding: 0 400px;
+    padding: 0 200px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -286,8 +286,9 @@ p.gpa, p.location {
   }
 
   main { 
-    margin: 0 400px;
-    padding: 0 0 16px 0;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 50px 16px 50px;
   }
 
   .split::after {
